@@ -1,0 +1,1 @@
+Inspiration got from https://github.com/dfinity/exchange-rate-canister/tree/main/src/monitor-canister
